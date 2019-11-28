@@ -40,7 +40,7 @@ let package = Package(
         .target(
             name: "ComScore",
             dependencies: [],
-            path: "ComScore/dynamic"
+            path: "ComScore/dynamic/iOS/ComScore.framework/"
         )
     ],
     swiftLanguageVersions: [.v5]
